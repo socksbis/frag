@@ -5,8 +5,8 @@ docname: draft-vance-socks5-frag-deprecation-latest
 category: std
 updates: 1928
 ipr: trust200902
-area: Security
-workgroup: Network Working Group
+# area: Security
+# workgroup: Network Working Group
 keyword: [socks5, udp, fragmentation, security]
 
 author:
